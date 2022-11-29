@@ -1,6 +1,10 @@
 erri puka 
 
 dsa, sha, des, rsa, deffie, elgamal, aes->aesheaders, p1->p2(cn codes)
+// socket creation 
+https://github.com/talrejamohit03/SecurityLab/tree/0f4cc3d16613fa6aa7b3d21260f7e30a716b42f2/PublicKeyCryptography/Diffie-Hellman
+https://github.com/bsantosh-kumar/CN-assignments
+https://github.com/VishwasGajawada/CNS
 
 
 //dsa 
